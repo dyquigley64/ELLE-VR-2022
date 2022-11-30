@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13335ee6b54891049bfa7d96a6542c13, type: 3}
+  m_Name: Person5
+  m_EditorClassIdentifier: 
+  shirtColor: 0
+  top: 1
+  playerDescriptor: 0
+  topDescriptor: 0
+  model: {fileID: 919132149155446097, guid: 4c64217f1ea860641b5027bc8ffd45e4, type: 3}
