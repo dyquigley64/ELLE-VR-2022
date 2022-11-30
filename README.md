@@ -4,6 +4,7 @@
 ## Important Info
 1. The project uses Unity version **2020.3.20f1**. Trying to open the project with a different Unity version is likely to cause issues.
 2. When pushing the project to a remote repository on GitHub, pushes need to be made in batches under 2GB in size. Any push greater than 2GB will fail when pushing to the remote server.
+3. To just get the final build of the game instead of the Unity project files, download the .apk file and install it onto a Quest headset. In our testing, we used SideQuest to do this.
 
 ## Known Issues
 Recently this project was switched over to the new OpenXR standard for input. This is great, since it makes compatibility across different hardware a breeze, but this initial implementation did bring about a few important issues:
